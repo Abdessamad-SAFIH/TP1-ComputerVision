@@ -81,10 +81,12 @@ TP1-ComputerVision/
 
 ## Clone
 
-1. Clonez le projet :
+Clonez le projet :
 ```
    git clone https://github.com/Abdessamad-SAFIH/TP1-ComputerVision.git
 ```
+
+---
 
 ## Auteur
 
