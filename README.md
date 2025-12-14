@@ -76,3 +76,18 @@ TP1-ComputerVision/
 - Utilisation d’un filtre de netteté pour restaurer les détails  
 - Ajout artificiel de bruit sur une image initialement nette  
 - Étude des différents types de bruit et des filtres adaptés à leur réduction  
+
+---
+
+## Clone
+
+1. Clonez le projet :
+```
+   git clone https://github.com/Abdessamad-SAFIH/TP1-ComputerVision.git
+```
+
+## Auteur
+
+🧠 Author: Abdessamad SAFIH
+
+📅 Year: 2025-2026
